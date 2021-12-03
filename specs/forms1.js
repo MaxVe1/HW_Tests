@@ -116,7 +116,7 @@ describe('Check app', function () {
         );
 
 
-        await browser.pause(10000);
+        await browser.pause(2000);
     });
 });   
                 
