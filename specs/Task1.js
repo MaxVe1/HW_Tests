@@ -22,5 +22,4 @@ function findUniqueSubstr(str)
 }
 
     console.log(findUniqueSubstr("abcabcbb"));
-    console.log(findUniqueSubstr("geeksforgeeks"));
     console.log(findUniqueSubstr("bbbbbbbbbbbb")); 
